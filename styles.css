@@ -1,0 +1,89 @@
+body {
+  background-color: rgb(8,8,8);
+  text-align: center;
+  margin: 5px;
+  border-radius: 25px;
+border: 2px solid #000014;
+padding: 20px;
+width: auto;
+height: auto;
+}
+
+.main {
+  text-align: center;  
+}
+
+/*--------------- EXERCISE 1 STYLES ---------------- */
+.exercise1 {
+  color: #bfbfbf;
+    text-align: center;
+  margin: 5px;
+  border-radius: 25px;
+border: 2px solid #bfbfbf;
+padding: 20px;
+width: auto;
+height: auto;
+}
+
+.node2 {
+  text-align: center;
+}
+
+
+/*--------------- EXERCISE 2 STYLES ---------------- */
+.exercise2 {
+  text-align: center;
+margin: 5px;
+border-radius: 25px;
+border: 2px solid #bfbfbf;
+padding: 20px;
+width: auto;
+height: auto;
+}
+
+/*--------------- EXERCISE 3 STYLES ---------------- */
+.exercise3 {
+  text-align: center;
+margin: 5px;
+border-radius: 25px;
+border: 2px solid #bfbfbf;
+padding: 20px;
+width: auto;
+height: auto;
+}
+
+#container {
+  width: 200px;
+  height: 200px;
+  background: green;
+  position: relative;
+}
+
+#box {
+  width: 50px;
+  height: 50px;
+  background: red;
+  position: absolute;
+}
+
+/*--------------- EXERCISE 4 STYLES ---------------- */
+.exercise4 {
+  text-align: center;
+margin: 5px;
+border-radius: 25px;
+border: 2px solid #bfbfbf;
+padding: 20px;
+width: auto;
+height: auto;
+}
+
+/*--------------- EXERCISE 5 STYLES ---------------- */
+.exercise5 {
+  text-align: center;
+margin: 5px;
+border-radius: 25px;
+border: 2px solid #bfbfbf;
+padding: 20px;
+width: auto;
+height: auto;
+}
