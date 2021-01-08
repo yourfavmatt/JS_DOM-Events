@@ -52,8 +52,6 @@ function move() {
     }
 }
 
-/* BONUS - Make the red box go all the way around the perimeter of the green box */
-
 /*----------- Exercise #5: DOM EVENTS --------------*/
 function show() {
     alert("Clicking the button triggers the onclick event, which calls the JS function show()... which alerts the user");
