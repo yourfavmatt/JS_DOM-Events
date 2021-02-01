@@ -4,18 +4,17 @@
 // Select Node #2 and change the text to: "I used the getElementByClassName("node2") method to access this" */
 // Select ALL the h3 tags and change the text to: "I used the getElementByTagName("h3") method to access all of these" */
 
-
 /*----------- Exercise #2: CREATING/APPENDING/INSERTING ELEMENTS/OBJECTS -----------*/
 
-// TODO: Create a text node using this element.createElement() and put this text inside "This node was created using the createElement() method"
+// TODO: Create a paragraph element using this element.createElement() and put this text inside "This node was created using the createElement() method"
 // TODO: Append the created node to the parent node using the element.appendChild() method
 
-// TODO: Create a text node using this element.createTextNode() and put this text inside "This node was created using the createTextNode() method"
-// TODO: Insert the created text node after the parent but before the one you just created using the element.insertBefore() method
+// TODO: Create a <a> element using this element.createElement() and put this text inside "This node was created using the createTextNode() method"
+// TODO: Insert the created <a> in the parent but before the <p> you just created using the element.insertBefore() method
 
 /*----------- Exercise #3: REMOVING/REPLACING ELEMENTS/OBJECTS -----------*/
 
-// TODO: Replace the "Child Node" with the "New Child Node"
+// TODO: Replace the "Child Node" with a new <p> element that reads "New Child Node"
 // TODO: Remove the "New Child Node"
 
 /*----------- Exercise #4: ANIMATIONS ----------- */
@@ -25,5 +24,6 @@
 
 /*----------- Exercise #5: DOM EVENTS --------------*/
 
-// TODO: write a function called "show" which alerts the user this message -> "Clicking the button triggers the onclick event, which calls the JS function show()... which alerts the user"
-
+// TODO: write a function called "show" which creates a new div with an alerting message to the user with this message -> "Clicking the button triggers the onclick event, which calls the JS function show()... which alerts the user"
+// This div should be a 'modal' that covers the main content on the screen
+// BONUS: The modal popup should be able to be closed. Refactor for this functionality
