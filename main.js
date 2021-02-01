@@ -9,8 +9,9 @@
 // TODO: Create a paragraph element using this element.createElement() and put this text inside "This node was created using the createElement() method"
 // TODO: Append the created node to the parent node using the element.appendChild() method
 
-// TODO: Create a <a> element using this element.createElement() and put this text inside "This node was created using the createTextNode() method"
+// TODO: Create a <a> element using this element.createElement() and put this text inside "I am a <p> tag"
 // TODO: Insert the created <a> in the parent but before the <p> you just created using the element.insertBefore() method
+// BONUS: Add a link href to the <a>
 
 /*----------- Exercise #3: REMOVING/REPLACING ELEMENTS/OBJECTS -----------*/
 
