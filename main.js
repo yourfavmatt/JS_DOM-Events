@@ -42,3 +42,7 @@ exercise3.replaceChild(newP, document.getElementById("oldNode"));
 /*----------- Exercise #5: DOM EVENTS --------------*/
 
 // TODO: write a function called "show" which alerts the user this message -> "Clicking the button triggers the onclick event, which calls the JS function show()... which alerts the user"
+const btn = document.getElementById("btn");
+btn.addEventListener("click", function () {
+  alert("You clicked my button!");
+});
