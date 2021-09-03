@@ -10,6 +10,26 @@ body {
   height: auto;
 }
 
+#modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 10;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-card {
+  padding: 3rem;
+  background-color: white;
+  border-radius: 10px;
+  color: #000014;
+}
+
 .main {
   text-align: center;
 }
