@@ -9,11 +9,11 @@ console.log("Script attached");
 
 /*----------- Exercise #2: CREATING/APPENDING/INSERTING ELEMENTS/OBJECTS -----------*/
 
-// TODO: Create a paragraph element using this element.createElement() and put this text inside "This node was created using the createElement() method"
+// TODO: Create a paragraph element using this document.createElement() and put this text inside "This node was created using the createElement() method"
 
 // TODO: Append the created node to the parent node using the element.appendChild() method
 
-// TODO: Create a <a> element using this element.createElement() and put this text inside "I am a <a> tag"
+// TODO: Create a <a> element using this document.createElement() and put this text inside "I am a <a> tag"
 
 // BONUS: Add a link href to the <a>
 
