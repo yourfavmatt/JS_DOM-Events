@@ -26,10 +26,18 @@ console.log("Script attached");
 // TODO: Remove the "New Child Node"
 
 /*----------- Exercise #4: ANIMATIONS ----------- */
-// TODO: Write your JavaScript here to make the red box go from left to right
-// let interval = setInterval(move, 10);
+// Use the following array of values to generate a list on the DOM
 
-// BONUS - Make the red box go all the way around the perimeter of the green box
+let list = [ "apples", "bananas", "carrots", "dragon fruit", "eggplant", "fish", "grapes", "honey", "ice bag", "juice (any kind)" ];
+
+
+// TODO: Create an unordered list element
+
+// TODO: Iterate over the array values, and create a list item element for each
+
+// TODO: Append the new list items to the unordered list element
+
+// TODO: Append the unordered list to the `div#container` under exercise 4 
 
 /*----------- Exercise #5: DOM EVENTS --------------*/
 
